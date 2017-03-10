@@ -18,7 +18,7 @@
   		<maven.compiler.source>1.8</maven.compiler.source>
     	<maven.compiler.target>1.8</maven.compiler.target>
 
-        
+
         <!-- Test related -->
         <version.junit_junit>4.12</version.junit_junit>
         <version.testng_testng>6.5.2</version.testng_testng>
